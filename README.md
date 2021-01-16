@@ -7,7 +7,7 @@ How to run:
 As it doesnt require any third-party libraries, so just download and copy all java files into your IDE and compile (with
 at least Java version 7). The entrance is called "MainClass.java".
 
-The results are shown as below:
+The results are shown as below (triggers with no disconnected nodes):
 
      variable number      structures number                   structure number                 number of triggers
                           (without disconnected variables)    (with disconnected variables)                                 
