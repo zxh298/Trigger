@@ -9,13 +9,11 @@ at least Java version 7). The entrance is called "MainClass.java".
 
 The results are shown as below:
 
-
-variable number      structures number                 structure number                 number of triggers
-                     (without separated variables)     (with separated variables)                                 
-    3                          4                             6                               0
-    4                          24                            31                              2
-    5                          268                           302                             57
-    6                          5667                          5984                            2525
+     variable number      structures number                   structure number                 number of triggers
+                          (without disconnected variables)    (with disconnected variables)                                 
+          3                          4                                  6                               0
+          4                          24                                 31                              2
+          5                          268                                302                             57
 		 
 
 "Disconnected" means nodes are totally disconnected in a DAG. For example A is a separated variables in 
