@@ -14,7 +14,7 @@ The results are shown as below:
           3                          4                                  6                               0
           4                          24                                 31                              2
           5                          268                                302                             57
-	  6	                     5667                               5984                            2525
+          6                          5667                               5984                            2525
 
 "Disconnected" means nodes are totally disconnected in a DAG. For example A is a separated variables in 
 the network (A,B,C,D): A B->C<-D
